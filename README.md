@@ -1,3 +1,3 @@
 # mothusi
 
-mothusi application. An application for doing awesome things.
+mothusi application. An application for doing some really awesome things.
